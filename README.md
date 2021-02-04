@@ -28,7 +28,7 @@ Overall, we find that simple post hoc methods are competitive with the popular M
 ```
 @inproceedings{Rousseau2020a,
   title={Post Training Uncertainty Calibration of Deep Networks for Medical Image Segmentation},
-  AUTHOR = {Rousseau, Axel-Jan, Thijs Becker, Jeroen Bertels, Matthew B. Blaschko, and Dirk Valkenborg},
+  AUTHOR = {Rousseau, Axel-Jan and Thijs Becker and Jeroen Bertels and Matthew B. Blaschko and Dirk Valkenborg},
   YEAR = {2021},
   booktitle = {IEEE International Symposium on Biomedical Imaging (ISBI)},
 }
